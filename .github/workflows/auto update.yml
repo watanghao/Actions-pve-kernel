@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Checkout Sources
-      uses: actions/checkout@main
+      uses: watanghao/Actions-pve-kernel
       with:
         token: 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
       
